@@ -1,3 +1,5 @@
+피그마 : https://www.figma.com/design/d7hC6mtubHFTwM7bRm1MAD/m?node-id=56-2&t=OLc1PMnsIXC8zBhF-1
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
