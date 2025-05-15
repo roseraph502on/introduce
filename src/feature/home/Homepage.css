@@ -1,0 +1,11 @@
+#bgbann {
+padding: 0 5%;
+}
+
+#bann {
+  width: 85%;
+  height: 35vh;
+  background-color: white;
+  box-shadow: 2px 4px 4px rgba(128, 128, 128, 0.218);
+  border-radius: 20px;
+}

@@ -1,0 +1,13 @@
+#nav{
+  height: 10vh;
+  align-items: center;
+  background: #EAC7C5;
+}
+#nav> a:first-child{
+  padding: 0 2%;
+  font-family: 'jalnan';
+  font-size: larger;
+}
+#nav> a{
+padding: 0 2%;
+}

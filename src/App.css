@@ -1,0 +1,32 @@
+body {
+  background: #FFFEF6;
+  font-weight: 300;
+}
+
+#root {
+  margin: 0 auto;
+}
+
+a {
+  color: #5E6346;
+  font-weight: 300;
+
+}
+
+a:hover {
+  color: #FFFEF6;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: smaller;
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    font-size: x-small;
+  }
+}

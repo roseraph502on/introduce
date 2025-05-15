@@ -1,0 +1,47 @@
+
+#load{
+background-color: #EAC7C5;
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+z-index: 3;
+left: 0;
+top:0;
+
+}
+#load > div {
+  width: 90vw;
+  height: 90vh;
+  border: 2px solid #FFFEF6;
+  border-radius: 3px;
+  display: flex;  
+  justify-content: center;
+  align-items: center;   
+
+}
+.loaddiv{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  margin: 15px 0;
+}
+#load h1{
+  margin: 25vh 0;
+  font-family: 'jalnan';
+
+
+}
+.load_bar{
+  width: 65vw;
+  height: 8px;
+  border-radius: 20px;
+  background-color: #9DA478;
+  margin-bottom: 10vh;
+}
+.bg-primary {
+  background: #79805b;
+
+}
