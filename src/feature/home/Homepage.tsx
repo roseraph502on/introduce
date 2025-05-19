@@ -1,5 +1,6 @@
 import React from 'react'
 import './Homepage.css'
+import Card from '@/components/card/Card'
 
 const Homepage: React.FC = () => {
   return (
@@ -19,9 +20,7 @@ const Homepage: React.FC = () => {
 
       </div>
       <div id='card_list'>
-        
-        <div id='card'></div>
-        <div id='card'></div>
+        <Card />
       </div>
     </div>
   )
