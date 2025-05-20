@@ -1,0 +1,85 @@
+ {
+ "project": [
+  {
+    "id": 1,
+    "title": "Mingle",
+    "exPage": "/image/preview/mingle_img.png",
+    "skill": [
+      "Css 3",
+      "Html 5",
+      "Js"
+    ],
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-01",
+    "content": "관심있는 관심사를 기반으로 사용자가 만들어가는 모임 웹페이지로 오프라인 모임의 한계를 깨고 온라인과 오프라인을 연결하는 웹페이지를 만들어 모임을 더 다양하고 다채로운 사람을 마주할 수 있고, 그 중 나와같은 관심사를 가진 사람들을 간단하게 찾고 모임활동을 쉽게 즐길 수 있도록 하기위해 만들어졌다.",
+    "link": "",
+    "github":"https://github.com/Jeremy-Fe/Mingle"
+  },
+  {
+    "id": 2,
+    "title": "이음",
+    "exPage": "",
+    "skill": [
+      "React",
+      "Css 3",
+      "Html 5",
+      "Js"
+    ],
+    "startDate": "2025-04-28",
+    "endDate": "2025-05-04",
+    "content": "",
+    "link":"https://eum-link-app.vercel.app/",
+    "github":"https://github.com/yeonmitc/eum-link-app"
+  },
+  {
+    "id": 3,
+    "title": "날씨앱",
+    "exPage": "/image/preview/shoppingmall.png",
+    "skill": [
+      "React",
+      "Css 3",
+      "Html 5",
+      "Js"
+    ],
+    "startDate": "2025-04-04",
+    "endDate": "2025-04-05",
+    "content": "",
+    "link":"https://weather-app-mauve-five-18.vercel.app/",
+    "github":"https://github.com/roseraph502on/WeatherApp"
+  },
+    {
+    "id": 4,
+    "title": "쇼핑몰",
+    "exPage": "public/image/preview/shoppingmall.png",
+    "skill": [
+      "React",
+      "Css 3",
+      "Html 5",
+      "Js"
+    ],
+    "startDate": "2025-04-09",
+    "endDate": "2025-04-10",
+    "content": "",
+    "link":"https://shopping-mall-liard.vercel.app/",
+    "github": "https://github.com/roseraph502on/shoppingMall"
+  },
+  {
+    "id": 5,
+    "title": "넷플릭스",
+    "exPage": "public/image/preview/shoppingmall.png",
+    "skill": [
+      "React",
+      "Css 3",
+      "Html 5",
+      "Js"
+    ],
+    "startDate": "2025-04-09",
+    "endDate": "2025-04-10",
+    "content": "",
+    "link":"https://shopping-mall-liard.vercel.app/",
+    "github": "https://github.com/roseraph502on/shoppingMall"
+  }
+ 
+]
+
+}

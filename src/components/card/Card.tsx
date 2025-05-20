@@ -10,7 +10,7 @@ const Card: React.FC= () => {
             <h5>2025-05-04</h5>
           </div>
           <div id='c_img'>
-            <img src="/image/mingle_img.png" alt="" />
+            <img src="/image/preview/mingle_img.png" alt="" />
           </div>
           <div id='c_bottom'>
             <div className='c_tag'> 
