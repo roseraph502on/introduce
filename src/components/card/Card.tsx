@@ -13,7 +13,9 @@ const Card: React.FC= () => {
             <img src="/image/mingle_img.png" alt="" />
           </div>
           <div id='c_bottom'>
-            <div className='c_tag'> s</div>
+            <div className='c_tag'> 
+              <img src="image\tag\Css 3.png" alt="" />
+            </div>
             <div>더보기 ></div>
           </div>
         </div>
